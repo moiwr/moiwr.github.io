@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://moiwr.csgad.com/nFM/sitemap.xml.gz
